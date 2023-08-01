@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio on Qudus Abolade</title>
+    <link>https://qudus4l.github.io/portfolio_q/</link>
+    <description>Recent content in My Portfolio on Qudus Abolade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://qudus4l.github.io/portfolio_q/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handwritten Digits Classifier</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-3/</link>
+      <pubDate>Tue, 11 Jul 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-3/</guid>
+      <description>The Handwritten Digits Classifier is a deep learning project built with PyTorch to recognize and classify handwritten digits. The primary goal of this project is to prototype an Optical Character Recognition (OCR) system that can accurately identify and interpret handwritten characters.
+Techniques and Tools Used Deep Learning Convolutional Neural Network (CNN) Python PyTorch (deep learning framework) Dataset The classifier has been trained on the famous MNIST database of handwritten digits, which contains a large dataset of labeled images of handwritten numbers.</description>
+    </item>
+    
+    <item>
+      <title>Predict Bike Sharing Demand</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-4/</link>
+      <pubDate>Tue, 06 Jun 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-4/</guid>
+      <description>The Bike Sharing Demand prediction project using AutoGluon is about building and training machine learning models to predict the demand for bike-sharing services. The project involves analyzing and preprocessing data from CSV files provided by the Kaggle competition. By leveraging the capabilities of AutoGluon&amp;rsquo;s Tabular Prediction, I engineered additional features, fine-tuned hyperparameters, and experimented with various models to achieve the most accurate predictions. The ultimate goal is to accurately forecast the demand for bike-sharing services, which can be valuable for companies like Uber, Lyft, and DoorDash to optimize their operations and provide better customer service.</description>
+    </item>
+    
+    <item>
+      <title>Fake News Classifier</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-5/</link>
+      <pubDate>Wed, 03 May 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-5/</guid>
+      <description>The Fake News Classifier is a supervised machine learning project built with Python to classify news articles as either real or fake. The primary goal of this project is to prototype a fake news detection system that can accurately identify and flag fake news articles. The model uses natural language processing techniques to extract features from the text of the articles and applies a classification algorithm to predict the class of each article.</description>
+    </item>
+    
+    <item>
+      <title>Flower Species Image Classifier Application</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-2/</link>
+      <pubDate>Sun, 05 Mar 2023 14:51:59 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-2/</guid>
+      <description>The Flower Species Image Classifier is a deep learning project designed to identify different species of flowers from images. Leveraging the power of convolutional neural networks (CNNs), this image classifier has been trained on a diverse dataset containing images of various flower species. The trained CNN model can accurately predict the species of a flower given an input image.
+Techniques and Tools Used Deep Learning Convolutional Neural Network (CNN) Python TensorFlow or PyTorch (deep learning frameworks) Dataset The project utilizes a large dataset of flower images, carefully labeled with their respective species.</description>
+    </item>
+    
+    <item>
+      <title>Image Classifier to Identify Dog Breeds</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-1/</link>
+      <pubDate>Mon, 23 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-1/</guid>
+      <description>This project is an image classifier that can identify different breeds of dogs using deep learning techniques. The classifier is based on a convolutional neural network (CNN) that has been trained on a large dataset of dog images. The CNN is trained to recognize 133 different dog breeds, and can be used to predict the breed of a dog given an image of a dog. If the image is of a human, the CNN will identify the resembling dog breed or identify it as some other animal like a cat.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://qudus4l.github.io/portfolio_q/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/about/</guid>
+      <description>This is me! I&amp;rsquo;m Qudus- a data scientist with a passion for statistics and mathematics, I leverage my skills in Python, POSTGRESQL, R and excel to drive innovation in the field of machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization. In my free time, I nurture my love for writing by exploring various research topics and authoring insightful papers.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://qudus4l.github.io/portfolio_q/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/contact/</guid>
+      <description>Got a cool project idea? Want to work together? Send me a mail and I&amp;rsquo;ll get back to you as soon as possible.
+Follow me on these social media platforms!
+Twitter Instagram LinkedIn GitHub </description>
+    </item>
+    
+  </channel>
+</rss>
