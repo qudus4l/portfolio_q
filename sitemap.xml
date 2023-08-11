@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qudus4l.github.io/portfolio_q/post/chapter-3/</loc>
-    <lastmod>2023-07-11T11:13:32-04:00</lastmod>
+    <loc>https://qudus4l.github.io/portfolio_q/post/chapter-6/</loc>
+    <lastmod>2023-08-10T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://qudus4l.github.io/portfolio_q/</loc>
+    <lastmod>2023-08-10T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://qudus4l.github.io/portfolio_q/post/chapter-3/</loc>
     <lastmod>2023-07-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

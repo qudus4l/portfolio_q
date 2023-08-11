@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://qudus4l.github.io/portfolio_q/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Landmark Classification &amp; Tagging for Social Media</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-6/</link>
+      <pubDate>Thu, 10 Aug 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-6/</guid>
+      <description>The Landmark Classifier project combines AI and image recognition to identify landmarks in photos. Built using Python, this supervised machine learning endeavor showcases the power of Convolutional Neural Networks (CNNs) to predict locations depicted in images, transforming photo-sharing experiences.
+Techniques and Tools Employed Convolutional Neural Networks (CNNs) Python Image Recognition Transfer Learning Streamlit (for building the interactive app) Dataset The dataset encompasses a diverse range of images showcasing landmarks. This dataset forms the backbone for training the landmark classifier and enabling it to recognize and predict various landmarks.</description>
+    </item>
+    
+    <item>
       <title>Handwritten Digits Classifier</title>
       <link>https://qudus4l.github.io/portfolio_q/post/chapter-3/</link>
       <pubDate>Tue, 11 Jul 2023 11:13:32 -0400</pubDate>
