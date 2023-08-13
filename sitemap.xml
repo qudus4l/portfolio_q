@@ -12,6 +12,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://qudus4l.github.io/portfolio_q/post/chapter-7/</loc>
+    <lastmod>2023-07-17T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://qudus4l.github.io/portfolio_q/post/chapter-3/</loc>
     <lastmod>2023-07-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -51,6 +56,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://qudus4l.github.io/portfolio_q/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://qudus4l.github.io/portfolio_q/elevator-pitch/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
