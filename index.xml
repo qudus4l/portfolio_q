@@ -20,6 +20,16 @@ Simplifies the process of creating code documentation. Generates comprehensive d
     </item>
     
     <item>
+      <title>Scones Unlimited ML Workflow with SageMaker</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-10/</link>
+      <pubDate>Mon, 23 Oct 2023 09:30:00 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-10/</guid>
+      <description>Project Overview Image Classifiers play a crucial role in computer vision applications across various industries. As a Machine Learning Engineer at Scones Unlimited, I could be tasked with developing an image classification model to optimize logistics operations.
+Project Introduction The goal is to build an image classification model capable of distinguishing between bicycles and motorcycles. This model will aid in routing delivery professionals efficiently, contributing to Scones Unlimited&amp;rsquo;s operational optimization.</description>
+    </item>
+    
+    <item>
       <title>Neural Style Transfer App</title>
       <link>https://qudus4l.github.io/portfolio_q/post/chapter-8/</link>
       <pubDate>Fri, 18 Aug 2023 09:30:00 -0400</pubDate>
@@ -92,7 +102,7 @@ Techniques and Tools Used Deep Learning Convolutional Neural Network (CNN) Pytho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://qudus4l.github.io/portfolio_q/about/</guid>
-      <description>This is me! I&amp;rsquo;m Qudus- a data scientist with a passion for statistics and mathematics, I leverage my skills in Python, POSTGRESQL, R and excel to drive innovation in the field of machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization. In my free time, I nurture my love for writing by exploring various research topics and authoring insightful papers.</description>
+      <description>This is me! I am a driven junior ML/AI engineer with a fervent enthusiasm for learning and contributing to impactful projects. Armed with a solid foundation in machine learning and deep learning, I bring analytical prowess to collaborative teams, seeking opportunities to apply my expertise. My name is Qudus, and I am a dedicated data scientist with a keen interest in statistics and mathematics. Proficient in Python, POSTGRESQL, R, and Excel, I leverage these skills to foster innovation in the realms of machine learning and artificial intelligence.</description>
     </item>
     
     <item>
