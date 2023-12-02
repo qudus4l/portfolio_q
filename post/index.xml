@@ -8,6 +8,18 @@
     <language>en</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://qudus4l.github.io/portfolio_q/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>D.A.R.T.H - Digital Assistant for Resourceful Technical Help</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-9/</link>
+      <pubDate>Mon, 20 Nov 2023 09:30:00 -0400</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-9/</guid>
+      <description>D.A.R.T.H is a powerful Streamlit application designed to assist developers in enhancing their coding experience. With a focus on providing valuable resources and aiding in various aspects of coding, D.A.R.T.H offers four key functions to make developers&amp;rsquo; lives easier.
+Features Article Generation:
+Generates articles in English, Yoruba, Igbo, and Hausa. Synthesizes English articles into speech for accessibility. Code Documentation Generator:
+Simplifies the process of creating code documentation. Generates comprehensive documentation for provided code.</description>
+    </item>
+    
+    <item>
       <title>Neural Style Transfer App</title>
       <link>https://qudus4l.github.io/portfolio_q/post/chapter-8/</link>
       <pubDate>Fri, 18 Aug 2023 09:30:00 -0400</pubDate>
@@ -25,15 +37,6 @@ Techniques and Tools Utilized Neural Style Transfer Deep Learning PyTorch and Te
       <guid>https://qudus4l.github.io/portfolio_q/post/chapter-6/</guid>
       <description>The Landmark Classifier project combines AI and image recognition to identify landmarks in photos. Built using Python, this supervised machine learning endeavor showcases the power of Convolutional Neural Networks (CNNs) to predict locations depicted in images, transforming photo-sharing experiences.
 Techniques and Tools Employed Convolutional Neural Networks (CNNs) Python Image Recognition Transfer Learning Streamlit (for building the interactive app) Dataset The dataset encompasses a diverse range of images showcasing landmarks. This dataset forms the backbone for training the landmark classifier and enabling it to recognize and predict various landmarks.</description>
-    </item>
-    
-    <item>
-      <title>ALX month 2 project</title>
-      <link>https://qudus4l.github.io/portfolio_q/post/chapter-7/</link>
-      <pubDate>Mon, 17 Jul 2023 11:15:58 -0400</pubDate>
-      
-      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-7/</guid>
-      <description>Supply Chain Transformation for Affordable Food Access: In this ALX Month 2 project, I was the team lead. My team and I identified critical pain points within the agricultural supply chain, addressing challenges faced by both farmers and consumers. By creating a digital platform, I aimed to eliminate middlemen, reduce inefficiencies, and ensure fair pricing. The platform connects farmers directly with consumers, allowing for transparent transactions and reducing costs. With a focus on inclusivity, the solution caters to both technologically literate farmers and those without access to technology through strategic partnerships with community centers and agricultural cooperatives.</description>
     </item>
     
     <item>
