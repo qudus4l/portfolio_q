@@ -6,7 +6,28 @@
     <description>Recent content in My Portfolio on Qudus Abolade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Nov 2023 09:30:00 -0400</lastBuildDate><atom:link href="https://qudus4l.github.io/portfolio_q/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qudus4l.github.io/portfolio_q/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Operational Efficiency through Automation at RealEstatePro</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-12/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-12/</guid>
+      <description>Project Overview The RealEstatePro Automation Project was initiated to address the challenge of manually processing large volumes of client emails and forms, which was time-consuming and error-prone. This project aimed to automate the extraction of relevant data and documents, thereby speeding up response times and reducing human error.
+Objectives Enhance Efficiency: Automate repetitive tasks to allow staff to focus on higher-value activities. Improve Accuracy: Minimize manual entry errors by automating data extraction.</description>
+    </item>
+    
+    <item>
+      <title>Employee Time-Off Automation</title>
+      <link>https://qudus4l.github.io/portfolio_q/post/chapter-11/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qudus4l.github.io/portfolio_q/post/chapter-11/</guid>
+      <description>Introduction Every year, employees are entitled to 22 working days of paid time off (PTO). The objective of this project is to implement an automated system for managing employee time-off processing within the organization. This system aims to streamline the application and approval of time-off requests, ensuring efficient communication between employees and their managers.
+Objectives The key objectives of this project are:
+Utilize Airtable as the database to store and manage time-off requests, approval status, and leave days balances.</description>
+    </item>
+    
     <item>
       <title>D.A.R.T.H - Digital Assistant for Resourceful Technical Help</title>
       <link>https://qudus4l.github.io/portfolio_q/post/chapter-9/</link>
@@ -102,7 +123,7 @@ Techniques and Tools Used Deep Learning Convolutional Neural Network (CNN) Pytho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://qudus4l.github.io/portfolio_q/about/</guid>
-      <description>This is me! I am a driven junior ML/AI engineer with a fervent enthusiasm for learning and contributing to impactful projects. Armed with a solid foundation in machine learning and deep learning, I bring analytical prowess to collaborative teams, seeking opportunities to apply my expertise. My name is Qudus, and I am a dedicated data scientist with a keen interest in statistics and mathematics. Proficient in Python, POSTGRESQL, Tensorflow, and Pytorch, I leverage these skills to foster innovation in the realms of machine learning and artificial intelligence.</description>
+      <description>This is me! I am a driven junior ML/AI engineer with a fervent enthusiasm for learning and contributing to impactful projects. Armed with a solid foundation in machine learning and deep learning, I bring analytical prowess to collaborative teams, seeking opportunities to apply my expertise. My name is Qudus Abolade, and I am a dedicated data scientist with a keen interest in statistics and mathematics. Proficient in Python, SQL, TensorFlow, and PyTorch, I leverage these skills to foster innovation in the realms of machine learning and artificial intelligence.</description>
     </item>
     
     <item>
